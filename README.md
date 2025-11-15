@@ -17,8 +17,8 @@ Clean and modern footer
 Mobile-friendly layout
 📂 Project Structure
 📁 responsive-landing-page
-├── index.html
-└── style.css
+├── task1.html
+└── task2.css
 🚀 How to Run the Project
 Download or clone the repository.
 Open the folder in VS Code.
